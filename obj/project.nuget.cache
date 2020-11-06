@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ODp95NFdcue2HfGTiuhy2U8Z6qIXVDX+uJQtErTVA11Hhi54iaTrd8TnXkL6IIyAT262NYtT5MdRGyhuHsPPrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Computer EV\\Desktop\\RepPar2\\Parcial2\\linq.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Computer EV\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
